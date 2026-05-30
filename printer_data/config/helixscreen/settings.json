@@ -39,6 +39,28 @@
   "motion": {
     "jog_mode": 2
   },
+  "print_start_history": {
+    "entries": [
+      {
+        "phases": {
+          "2": 87,
+          "7": 139
+        },
+        "temp_bucket": 1,
+        "timestamp": 1780137562,
+        "total": 376
+      },
+      {
+        "phases": {
+          "2": 24,
+          "7": 111
+        },
+        "temp_bucket": 2,
+        "timestamp": 1780141542,
+        "total": 298
+      }
+    ]
+  },
   "printers": {
     "default": {
       "default_macros": {
@@ -555,6 +577,16 @@
   "telemetry_enabled": false,
   "theme": {
     "preset": 0
+  },
+  "thermal": {
+    "rates": {
+      "extruder": {
+        "heat_rate": 1.5296850204467773
+      },
+      "heater_bed": {
+        "heat_rate": 2.462033987045288
+      }
+    }
   },
   "tour": {
     "completed": true,
