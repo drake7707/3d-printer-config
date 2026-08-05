@@ -196,6 +196,8 @@
           "fans": [
             "fan_generic T0_partfan",
             "heater_fan T0_hotend_fan",
+            "fan_generic T1_partfan",
+            "heater_fan T1_hotend_fan",
             "fan_generic T2_partfan",
             "heater_fan T2_hotend_fan",
             "fan_generic T3_partfan",
@@ -211,6 +213,7 @@
           ],
           "filament_sensors": [
             "filament_switch_sensor T0_filament_runout_1",
+            "filament_switch_sensor T1_filament_runout_1",
             "filament_switch_sensor T2_filament_runout_1",
             "filament_switch_sensor T3_filament_runout_1",
             "filament_switch_sensor T4_filament_runout_1",
@@ -244,7 +247,7 @@
             "temperature_sensor Hexaboard",
             "temperature_sensor FlyD5"
           ],
-          "timestamp": "2026-08-05T13:07:34Z"
+          "timestamp": "2026-08-05T13:08:44Z"
         },
         "optional": []
       },
