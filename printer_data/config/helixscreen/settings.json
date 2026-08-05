@@ -233,6 +233,7 @@
           ],
           "leds": [
             "neopixel sb_leds_t0",
+            "neopixel sb_leds_t1",
             "neopixel sb_leds_t2",
             "neopixel sb_leds_t3",
             "neopixel sb_leds_t4",
@@ -247,7 +248,7 @@
             "temperature_sensor Hexaboard",
             "temperature_sensor FlyD5"
           ],
-          "timestamp": "2026-08-05T13:08:44Z"
+          "timestamp": "2026-08-05T13:09:54Z"
         },
         "optional": []
       },
