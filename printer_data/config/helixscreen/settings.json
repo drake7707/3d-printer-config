@@ -196,8 +196,6 @@
           "fans": [
             "fan_generic T0_partfan",
             "heater_fan T0_hotend_fan",
-            "fan_generic T1_partfan",
-            "heater_fan T1_hotend_fan",
             "fan_generic T2_partfan",
             "heater_fan T2_hotend_fan",
             "fan_generic T3_partfan",
@@ -213,7 +211,6 @@
           ],
           "filament_sensors": [
             "filament_switch_sensor T0_filament_runout_1",
-            "filament_switch_sensor T1_filament_runout_1",
             "filament_switch_sensor T2_filament_runout_1",
             "filament_switch_sensor T3_filament_runout_1",
             "filament_switch_sensor T4_filament_runout_1",
@@ -233,7 +230,6 @@
           ],
           "leds": [
             "neopixel sb_leds_t0",
-            "neopixel sb_leds_t1",
             "neopixel sb_leds_t2",
             "neopixel sb_leds_t3",
             "neopixel sb_leds_t4",
@@ -242,14 +238,13 @@
           "sensors": [
             "temperature_sensor T0_Internal",
             "temperature_sensor chamber_sensor_t0",
-            "temperature_sensor T1_Internal",
             "temperature_sensor M8P",
             "temperature_sensor CB1",
             "temperature_sensor chamber_sensor",
             "temperature_sensor Hexaboard",
             "temperature_sensor FlyD5"
           ],
-          "timestamp": "2026-08-05T07:35:10Z"
+          "timestamp": "2026-08-05T09:44:35Z"
         },
         "optional": []
       },
