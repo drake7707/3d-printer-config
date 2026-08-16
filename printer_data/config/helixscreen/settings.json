@@ -43,15 +43,6 @@
     "entries": [
       {
         "phases": {
-          "2": 24,
-          "7": 111
-        },
-        "temp_bucket": 2,
-        "timestamp": 1780141542,
-        "total": 298
-      },
-      {
-        "phases": {
           "2": 87,
           "7": 139
         },
@@ -66,6 +57,78 @@
         },
         "temp_bucket": 1,
         "timestamp": 1784456733,
+        "total": 399
+      },
+      {
+        "phases": {
+          "2": 51,
+          "7": 211
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786871614,
+        "total": 414
+      },
+      {
+        "phases": {
+          "2": 231,
+          "7": 213
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786893390,
+        "total": 445
+      },
+      {
+        "phases": {
+          "2": 24,
+          "7": 111
+        },
+        "temp_bucket": 2,
+        "timestamp": 1780141542,
+        "total": 298
+      },
+      {
+        "phases": {
+          "2": 191,
+          "7": 205
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786874632,
+        "total": 397
+      },
+      {
+        "phases": {
+          "2": 181,
+          "7": 229
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786876435,
+        "total": 411
+      },
+      {
+        "phases": {
+          "2": 175,
+          "7": 218
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786880172,
+        "total": 394
+      },
+      {
+        "phases": {
+          "2": 189,
+          "7": 197
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786902811,
+        "total": 387
+      },
+      {
+        "phases": {
+          "2": 179,
+          "7": 220
+        },
+        "temp_bucket": 2,
+        "timestamp": 1786905214,
         "total": 399
       }
     ]
@@ -242,7 +305,7 @@
             "temperature_sensor Hexaboard",
             "temperature_sensor FlyD5"
           ],
-          "timestamp": "2026-08-16T08:53:40Z"
+          "timestamp": "2026-08-16T09:12:56Z"
         },
         "optional": []
       },
@@ -588,10 +651,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 1.5296850204467773
+        "heat_rate": 1.5913469791412354
       },
       "heater_bed": {
-        "heat_rate": 2.462033987045288
+        "heat_rate": 4.627969741821289
       }
     }
   },
