@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "config_version": 19,
+  "config_version": 21,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -35,12 +35,6 @@
     "touch_device": ""
   },
   "language": "en",
-  "led": {
-    "auto_state": {
-      "enabled": null
-    },
-    "selected_strips": null
-  },
   "log_path": "/tmp/helixscreen.log",
   "motion": {
     "jog_mode": 2
@@ -257,9 +251,7 @@
         "hotend": "extruder"
       },
       "leds": {
-        "auto_state": {
-          "mappings": null
-        },
+        "auto_state": {},
         "color_presets": [
           "#FFFFFF",
           "#FFD700",
@@ -579,9 +571,7 @@
         }
       },
       "printer_name": "Drakarah3DPrinter",
-      "probe_sensors": {
-        "sensors": null
-      },
+      "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
